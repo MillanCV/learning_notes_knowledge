@@ -12,9 +12,9 @@ Tags:
 * Tag_n
 
 ---
-Note about somethin
+Note about something
 ---
-Date:
+Date: xx/xx/xx
 Tag: Tag_1
 ---
 
