@@ -17,6 +17,7 @@ Note about something
 Date: xx/xx/xx
 
 Tag: tag_1
+
 ---
 
 ## List of links related to things i care about profesionally.
