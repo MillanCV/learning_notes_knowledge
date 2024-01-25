@@ -29,6 +29,7 @@ Template for links:
 	* [Date last read]
 	* URL
 
+---
 ## Cheatsheets
 
 Quick tutorials to accumulate knowleadge
