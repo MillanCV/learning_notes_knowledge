@@ -15,6 +15,7 @@ Tags:
 Note about something
 ---
 Date: xx/xx/xx
+
 Tag: Tag_1
 ---
 
