@@ -11,3 +11,32 @@
 * Mascara radial y bajamos exposicion para devolver atmosfera
 * Podemos bajar zonas concretas con pincel 
 
+## Escena con luz artificial cenital. Reinterpretacion de los puntos de luz
+
+* Degragado lineal sobre la zona con mas luz.
+	* Si bajamos exposicion es mas agresivo, si bajamos iluminaciones es mas sutil. Podemos jjugar con ambas
+* En general levantamos sombras con negros y contraste. Usamos la saturacion para ver que estamos bien
+* Separamos el fondo de la parte delantera con claridad
+* Con una elipse sobre el protagonista subimos la exposicion
+* Invertimos la elipse y bajamos exposicion y subimos contraste
+* Levantamos sombras de la seleccion eliptica de la prota
+* Seeccionamos persona y damos contraste con curvas
+* Repasamos el general
+* Repasamos capas
+* Vemos la foto en pequeno
+
+## Plano medio a contra luz
+
+* Miramos los diferentes campos de la imagen
+* Seleccionamos el sujeto
+* Duplicamos mascara e invertimos
+* En general bajamos iluminaciones, blancos. Subimos negros de forma que si subimos contraste quede bien.
+* Debo tomar una decision, dar distancia al fondo o dar volumen al sujeto.
+* Sujeto: subo sombras y claridad para destacar la cara
+* Fondo: claridad da mas presencia al fondo.
+* Puedo hacer un degradado hasta el horizonte y restar el sujeto y dar claridad. Asi dejo el cieloo sin tocar y respeto su naturaleza difusa. Nubes y claridad, feo feo feo.
+* Tonos del paisaje anterior:
+	* selecciono el mar y lo hago mas turquesa
+* Tono cielo: puedo cambiar el tono para contrastar (en documental no seria etico)
+* En general ajusto claridad y luz
+* Vineteado del fondo restando el sujeto: quito exposicion.
