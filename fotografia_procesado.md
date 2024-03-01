@@ -40,3 +40,10 @@
 * Tono cielo: puedo cambiar el tono para contrastar (en documental no seria etico)
 * En general ajusto claridad y luz
 * Vineteado del fondo restando el sujeto: quito exposicion.
+
+## Foto folcoricas sobre pared
+
+* Separar elementos:
+	* Le damos saturacion para ver los planos de la imagen. Va a permitir ver que dominantes tiene cada plano. La zona de luz tiene una dominante. La zona de sombra tiene otra dominante. La corregimos balanceandola.
+	* Hago degradado sobre la pared del fondo y bajo altas luces. Selecciono el color de la pared y lo llevo al rojo y le doy saturacion.
+
